@@ -1,2 +1,2 @@
 # metacoin
-Custom ERC20 Token MetaCoin
+Custom Simple Token MetaCoin
